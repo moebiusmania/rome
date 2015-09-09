@@ -2,6 +2,7 @@
 
 var crossvent = require('crossvent');
 var emitter = require('contra/emitter');
+var moment = require('moment');
 var dom = require('./dom');
 var text = require('./text');
 var parse = require('./parse');
